@@ -38,7 +38,9 @@ How to extract information from an invoice in image format (*.JPG) and from An i
 
   1) New Sequance > Use Application: Invoice Pic.pdf > Keyboard Shortcuts (CTRL+0)
 
-    <img src="https://github.com/user-attachments/assets/5bcc2e89-372c-4e66-a29d-7ccdfa6e8d7d" width="400">
+![image](https://github.com/user-attachments/assets/29663887-b032-485c-ba02-5cefd6808f3d)
+
+   
 
     
   2) Get OCR Text > Select the specific text
